@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil</title>
+    <link rel="stylesheet" href="./styles/main.css"/>
+</head>
+<body>
+    <div class=" container">
+         <form id="profileForm">
+            <input type="text" id="nameInput" placeholder="Nombre" required>
+            <input type="text" id="usernameInput" placeholder="Usuario" required>
+            <textarea id="bioInput" placeholder="Biografía" rows="6"></textarea>
+            <button type="submit">Agregar Perfil</button>
+        </form>  
+
+        <div id="search">
+            <input type="text" id="searchInput" placeholder="Buscar Usuario">
+            <button onclick="searchProfile()">Buscar</button>
+        </div>
+
+        <div id="profileContainer">
+            <a href="./pages/post.html">Ir a Publicaciones</a>
+        </div>
+    </div>
+
+    <script src="./scripts/script.js"></script>
+</body>
+</html>

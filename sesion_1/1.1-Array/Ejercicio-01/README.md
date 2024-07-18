@@ -1,5 +1,7 @@
 ## Ejercicio 1
-Crear un arreglo de 5 posiciones con los días de la semana:  Martes, Miércoles, Jueves, Viernes y Sábado. Adicionar Lunes y Domingo con  unshift y push
+Crear un arreglo de 5 posiciones con los días de la semana:  Martes, Miércoles, Jueves, Viernes y Sábado. 
+
+Adicionar Lunes y Domingo con  unshift y push
 
 - Al array semana eliminarle la posición 2 del arreglo con splice.
 

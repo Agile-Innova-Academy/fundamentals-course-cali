@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Post</title>
+    <link rel="stylesheet" href="../styles/main.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Publicaciones</h1>
+      <form id="postForm">
+        <input type="text" id="postUserInput" placeholder="Usuario" required />
+        <textarea
+          id="postContentInput"
+          placeholder="Contenido"
+          required
+        ></textarea>
+        <button type="submit">Agregar Publicación</button>
+      </form>
+
+      <div id="search">
+        <input type="text" id="searchInput" placeholder="Buscar Usuario" />
+        <button onclick="searchPost()">Buscar</button>
+      </div>
+
+      <div id="postContainer">
+        <a href="../index.html">Ir a Perfil</a>
+      </div>
+    </div>
+    <script src="../scripts/post.js"></script>
+  </body>
+</html>

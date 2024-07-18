@@ -2,7 +2,7 @@
 const form = document.getElementById('form')
 
 // 2- capturar toda la informacion en algun lugar
-//-crear espacio de memoria a trves de un Array vacio
+//-crear espacio de memoria através de un Array vacio
 
 let CitaMentorias = []
 
@@ -177,8 +177,7 @@ btnBuscar.addEventListener('click', e =>{
         mostrarBusqueda.innerHTML +=`
             <h1>${nomEst}</h1>
             <h1>${nomMen}</h1>
-            <h1>${fecha}</h1>
-            
+            <h1>${fecha}</h1>            
         `
 
     })

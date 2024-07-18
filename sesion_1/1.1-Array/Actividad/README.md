@@ -8,6 +8,7 @@ Por ejemplo, si escribo los siguientes numeros
 50 //Error, inserte otro numero
 -1 //fin
 
+Probar: 
 Cadena resultante: AFZ
 
 Buscar todas las letras "Y" repetidas 
