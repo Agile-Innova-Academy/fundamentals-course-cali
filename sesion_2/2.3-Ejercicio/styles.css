@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card{
+  width: 25%;
+  border: solid 2px #000;
+  border-radius: 10px;
+  padding: 0.5rem;
+
+}
+
+.card__img{
+  width: 100%;
+}
