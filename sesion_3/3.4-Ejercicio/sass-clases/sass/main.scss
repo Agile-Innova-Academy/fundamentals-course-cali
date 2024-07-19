@@ -1,0 +1,84 @@
+// Variables
+$primary-color: rgb(223, 72, 34);
+$secondary-color: rgb(234, 229, 130);
+$default-color: rgb(228, 226, 185);
+$font-color: rgb(78, 78, 62);
+$font-all: sans-serif;
+
+body {
+  background-color: $default-color;
+  font: 100% $font-all;
+  color: $font-color;
+}
+
+h1 {
+  color: $primary-color;
+}
+
+#hola {
+  color: $secondary-color;
+  font: arial;
+}
+
+// anidamiento
+nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  li {
+    display: inline-block;
+    margin-right: 10px;
+    a {
+      text-decoration: none;
+      color: $primary-color;
+      &hover {
+        color: $secondary-color;
+      }
+    }
+  }
+}
+
+// Mixins
+//bloques de códigos reutilizables
+
+@mixin border-radius($radiosvalor) {
+  -webkit-border-radius: $radiosvalor;
+  -moz-border-radius: $radiosvalor;
+  border-radius: $radiosvalor;
+}
+
+// button {
+//     @include border-radius(10px);
+//     background-color: $primary-color;
+//     color: $default-color;
+//     padding: 10px 20px;
+//     text-align: center;
+//     display: inline-block;
+// }
+
+input {
+  @include border-radius(10px);
+}
+
+// Herencia
+
+%button-base {
+  font-size: 18px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.button-primary {
+  @extend %button-base;
+  background-color: $primary-color;
+  color: $default-color;
+}
+
+
+.button-secondary {
+  @extend %button-base;
+  background-color: $default-color;
+  color: $primary-color;
+}

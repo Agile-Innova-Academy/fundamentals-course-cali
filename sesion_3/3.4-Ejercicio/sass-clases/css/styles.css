@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(228, 226, 185);
+  font: 100% sans-serif;
+  color: rgb(78, 78, 62);
+}
+
+h1 {
+  color: rgb(223, 72, 34);
+}
+
+#hola {
+  color: rgb(234, 229, 130);
+  font: arial;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+nav li a {
+  text-decoration: none;
+  color: rgb(223, 72, 34);
+}
+nav li ahover {
+  color: rgb(234, 229, 130);
+}
+
+input {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.button-secondary, .button-primary {
+  font-size: 18px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.button-primary {
+  background-color: rgb(223, 72, 34);
+  color: rgb(228, 226, 185);
+}
+
+.button-secondary {
+  background-color: rgb(228, 226, 185);
+  color: rgb(223, 72, 34);
+}
+
+/*# sourceMappingURL=styles.css.map */

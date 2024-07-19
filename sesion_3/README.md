@@ -28,6 +28,8 @@ Cada caja (o módulo) tiene lo suyo y puedes llevar solo la caja que necesitas e
 **SASS** es como una varita mágica para cambiar los colores y estilos de tus juguetes favoritos. 🌈✨ En lugar de decir "rojo" una y otra vez, ¡con SASS solo dices "color mágico" y puedes cambiarlo a cualquier color que desees! 🎨🧙
 
 Es como si tus juguetes pudieran tener trajes diferentes y tú solo tuvieras que decir, "**¡Quiero que todos mis juguetes tengan trajes brillantes!**" y ¡listo, todos brillan! ✨👗
+ 
+
 
 ### En resumen...
 

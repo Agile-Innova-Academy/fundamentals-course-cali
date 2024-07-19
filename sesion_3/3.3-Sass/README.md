@@ -154,3 +154,34 @@ Si quieres reutilizar el código escrito en tu mix-in pero pasar diferentes valo
         }
 
 
+## Manejo de Sass
+
+Paso 1: Instalar Node.js - Descargarlo e instalarlo
+
+paso 2: Instalar Sass:
+             npm install -g sass
+
+
+Paso 3: Copnfiguración del proyecyo - crear una carpeta llamada sass
+
+        my-project/
+        ├── css/
+        │   └── styles.css
+        ├── sass/
+        │   └── styles.scss
+        ├── index.html
+        └── script.js
+
+Paso 4: Escribir el código en SASS - en un archivo *style.scss*
+
+Paso 5: Compilar Sass a CSS
+Compilar manualmente: En la terminal, navega hasta la carpeta de tu proyecto y ejecuta el siguiente comando para compilar tu archivo Sass a CSS:
+
+        sass sass/styles.scss css/styles.css
+
+### Compilación automática: Puedes configurar Sass para que compile automáticamente cada vez que haces cambios en tu archivo Sass. Para ello, usa el siguiente comando:
+
+        sass --watch sass/styles.scss:css/styles.css
+
+
+
