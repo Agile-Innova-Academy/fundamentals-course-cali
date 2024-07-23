@@ -1,0 +1,255 @@
+{
+  "paletas": [
+    {
+      "id": 11,
+      "name": "SandiaManía",
+      "price": 5000,
+      "image": "https://cdn1.totalcommerce.cloud/cremhelado/product-zoom/es/paleta-tosh-pasion-2.webp",
+      "flavor": "Sandía",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 12,
+      "name": "MangoManía",
+      "price": 5000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBnsFfoEpTH3tGtd37OVrsbJ4IkUGBVN1lDpKN_UA8-upkOkJ4KmpZnOyHiniqjNAprE&usqp=CAU",
+      "flavor": "Mango",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 13,
+      "name": "UvaManía",
+      "price": 5000,
+      "image": "https://heladosbon.com/wp-content/uploads/2019/06/uva.png",
+      "flavor": "Uva",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 14,
+      "name": "LimaManía",
+      "price": 5000,
+      "image": "https://sunny.pe/wp-content/uploads/2020/03/Helado-Vainilla.png",
+      "flavor": "Lima",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 15,
+      "name": "PiñaManía",
+      "price": 5000,
+      "image": "https://png.pngtree.com/png-clipart/20240229/original/pngtree-pineapple-ice-cream-on-a-stick-isolated-white-background-png-image_14445545.png",
+      "flavor": "Piña",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 16,
+      "name": "FresaManía",
+      "price": 5000,
+      "image": "https://heladosbon.com/wp-content/uploads/2019/06/frutafresa.png",
+      "flavor": "Fresa",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 17,
+      "name": "ArandanoManía",
+      "price": 5000,
+      "image": "https://static.vecteezy.com/system/resources/previews/003/267/021/non_2x/ice-cream-popsicles-from-fresh-organic-blueberries-photo.jpg",
+      "flavor": "Arandanos",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 18,
+      "name": "ParchiManía",
+      "price": 5000,
+      "image": "https://png.pngtree.com/png-vector/20240515/ourlarge/pngtree-d-popsicle-summer-cooling-ice-product-passion-fruit-flavored-fantasy-cream-png-image_12471206.png",
+      "flavor": "Parchita",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 19,
+      "name": "KiwiManía",
+      "price": 5000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRyknEMax_XlVtEBQ6a9E6pGx58gR1EIdow&s",
+      "flavor": "Kiwi",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 20,
+      "name": "DuraznoManía",
+      "price": 5000,
+      "image": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_008827/tienda_008827_ae9449aafdd2e076b35b589530ef1c0004d99c2f_producto_large_90.jpg",
+      "flavor": "Durazno",
+      "description": "Esta gran paleta, galardonada como una de las mejores paletas de frutas de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "fruta"
+    },
+    {
+      "id": 21,
+      "name": "PopsyXtreme",
+      "price": 3500,
+      "image": "https://images.openfoodfacts.org/images/products/843/657/658/0882/front_es.8.full.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 22,
+      "name": "PopsyRed",
+      "price": 3500,
+      "image": "https://heladospopsy.com/wp-content/uploads/2023/06/fbpaleta.png",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 23,
+      "name": "PopsyPurple",
+      "price": 3500,
+      "image": "https://i.pinimg.com/564x/ff/27/02/ff27028c44aaca8d9c85a71026cd19bf.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 24,
+      "name": "PopsyPink",
+      "price": 3500,
+      "image": "https://img2.freepnges.com/20240211/sse/transparent-sprinkles-two-popsicles-with-pink-and-white-1710881287929.webp",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 25,
+      "name": "PopsyOrange",
+      "price": 3500,
+      "image": "https://heladospopsy.com/wp-content/uploads/2023/06/mandarinapaleta.png",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 26,
+      "name": "PopsyMilk",
+      "price": 3500,
+      "image": "https://polacocina.com/wp-content/uploads/2021/04/Paletas-heladas-de-coco-y-vainilla.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 27,
+      "name": "PopsyEmotion",
+      "price": 3500,
+      "image": "https://dolphy.com.mx/wp-content/uploads/2021/10/paletas-e1634665463662.png",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 28,
+      "name": "PopsyChips",
+      "price": 3500,
+      "image": "https://heladoscolombina.com/wp-content/uploads/2023/05/img-paleta-cremas-hover.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 29,
+      "name": "Popsy",
+      "price": 3500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBw0WNx1C-Y7gyyrUSHWA7wK9jxD_C3naG7MxkCU4pnAwo0lBnTkNfh5ke0KLQhkUkG6I&usqp=CAU",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 30,
+      "name": "PopsyBrown",
+      "price": 3500,
+      "image": "https://heladoschalcotienda.com/wp-content/uploads/2021/06/PALETAS-CUBIERTAS-VAINILLA-1-300x300.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, que pertenece a la gama de paletas principales de nuestra tienda, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia de la mano de un momento único y especial.",
+      "categorie": "popsy"
+    },
+    {
+      "id": 31,
+      "name": "RedMilk",
+      "price": 4000,
+      "image": "https://heladospopsy.com/wp-content/uploads/2023/06/hierbabuena.png",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    },
+    {
+      "id": 32,
+      "name": "CocoMilk",
+      "price": 4000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXc087H4SgBn9uzjYNROAWSbj87qnWHEmhfQ&s",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    },
+    {
+      "id": 33,
+      "name": "PurpleMilk",
+      "price": 4000,
+      "image": "https://heladosbon.com/wp-content/uploads/2019/06/frutacoco.png",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    },
+    {
+      "id": 34,
+      "name": "CookieMilk",
+      "price": 4000,
+      "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/6ad080d4-b5fa-49c1-99cd-7b4bda3a4cc6/Derivates/eb013128-abd5-4125-9b14-c51d29047589.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    },
+    {
+      "id": 35,
+      "name": "Fusion-X",
+      "price": 4000,
+      "image": "https://heladoscolombina.com/wp-content/uploads/2021/03/portfolio-cat-h-2.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    },
+    {
+      "id": 36,
+      "name": "Chocolate",
+      "price": 4000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThq5tOz5eo9-wcyyMbAAvcEV_-I8upgmtJ2oD9vI9iZkn9X85mhcUqI2zcfIX3a0QHAsY&usqp=CAU",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    },
+    {
+      "id": 37,
+      "name": "Fusion-M",
+      "price": 4000,
+      "image": "https://i.pinimg.com/474x/c4/42/7c/c4427c3a6b12d5538d58af07ef07dd93.jpg",
+      "flavor": null,
+      "description": "Esta gran paleta, considerada por muchos como una de las mejores paletas de leche de la ciudad, con su gran sabor y textura, deleitará tu paladar hasta saciarte a ti y toda tu familia.",
+      "categorie": "leche"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 58,
+      "name": "yudith",
+      "email": "yudithleon@yopmail.com",
+      "password": "123456789"
+    }
+  ]
+}
