@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My SuperHero App</title>
+  <link rel="stylesheet" href="styles/styles.css" type="text/css" />
+</head>
+<body>
+  <header class="header">
+    <h2 class="header__title">The Heroes App</h2>
+    <form id="form" class="form">
+      <input type="text" id="search" class="search" placeholder="Ingresa el nombre" />
+    </form>
+  </header>
+  <section style="padding: 0 2rem">
+    <h1 class="main__title">SuperHeroes App</h1>
+    <P class="main__description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut molestias dicta voluptatem vitae, eveniet nemo a est nostrum. Tempore dignissimos pariatur cum ipsam modi neque ut voluptas reiciendis natus laborum.<P>
+  </section>
+
+  <form id="newHero">
+    <div class="inputs">
+      <label for="nameInput">Cómic</label>
+      <input type="text" id="nameInput" placeholder="Ingrese nombre del comic">
+    </div>
+    <div class="inputs">
+      <label for="superheroInput">Nombre</label>
+      <input type="text" id="superheroInput" placeholder="Ingrese nombre del héroe">
+    </div>
+    <div class="inputs">
+      <label for="publisherInput">Editor</label>
+      <input type="text" id="publisherInput" placeholder="Ingrese editor">
+    </div>
+    <div class="inputs">
+      <label for="alterInput">Alter-ego</label>
+      <input type="text" id="alterInput" placeholder="Ingrese AlterEgo">
+    </div>
+    <div class="inputs">
+      <label for="firstInput">Primera aparición</label>
+      <input type="text" id="firstInput" placeholder="Ingrese primera aparición">
+    </div>
+    <div class="inputs">
+      <label for="imageInput">Imágen</label>
+      <input type="file" accept="image/*" id="imageInput" placeholder="Ingrese imágen">
+    </div>
+    <button type="submit">Agregar héroe</button>
+  </form>
+
+  <main id="main">    
+    
+  </main>
+  
+  <script src="./scripts/main.js" type="module"></script>
+</body>
+</html>
