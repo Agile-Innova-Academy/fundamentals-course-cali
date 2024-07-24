@@ -1,4 +1,5 @@
 export const patchData = async (url, id, data) => {
+  console.log(id)
   const endpoint = `${url}/${id}`
   try {
     await fetch(endpoint, {
