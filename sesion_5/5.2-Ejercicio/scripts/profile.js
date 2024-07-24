@@ -53,7 +53,7 @@ btnEliminar.addEventListener("dblclick", (e) => {
   let id = e.target.id;
 
   DeleteData(`${USUARIOS}/${id}`).then(() => {
-    // alert("Usuario Eliminado exitosamente");
-     window.location.href = "../index.html";
+    window.location.href = "../../5.2-Ejercicio/index.html";
+    sessionStorage.clear();
   });
 });

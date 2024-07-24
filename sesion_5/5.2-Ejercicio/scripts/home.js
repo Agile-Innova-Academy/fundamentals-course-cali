@@ -9,3 +9,5 @@ document.addEventListener("DOMContentLoaded", async () => {
   const result = await Getdata(PALETAS);
   ShowCard(templateFragment, containerCards, result);
 });
+
+

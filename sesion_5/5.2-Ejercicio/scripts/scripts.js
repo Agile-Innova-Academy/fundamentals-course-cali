@@ -12,18 +12,20 @@ form.addEventListener("submit", async (e) => {
   console.log(dataUsuario);
 
   // Validar si esta informacion se encuentra en data.json
+  const result = dataUsuario.find(
+    (fi) => fi.email === email && fi.password === pass
+  );
 
-    const result = dataUsuario.find(
-      (fi) => fi.email === email && fi.password === pass
-    );
-    
+  if (result !== undefined) {
     sessionStorage.setItem("infoUser", JSON.stringify(result));
     form.reset();
-
-    if (result !== undefined) {
-       window.location.href = "../pages/home.html";
-    } else {
-      alert("Email o Password Incorrectos");
-    }
- 
+    redi();
+  } else {
+    alert("Email o Password Incorrectos");
+  }
 });
+
+const redi = () => {
+  console.log("redireccion");
+  window.location.href = "../../5.2-Ejercicio/pages/home.html";
+};
