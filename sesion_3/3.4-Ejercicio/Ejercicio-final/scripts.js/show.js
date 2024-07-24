@@ -22,3 +22,5 @@ export const showPokemon = (datos) => {
 
   main.appendChild(pokemonCard);
 };
+
+

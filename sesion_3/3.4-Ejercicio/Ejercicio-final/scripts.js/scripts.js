@@ -1,6 +1,7 @@
 import { api_url } from "./constant.js";
 import { getPokemon } from "./get.js";
 
+
 // leer lo trae la api y asi poder pintarla
 // getPokemon(api_url);
 
