@@ -14,7 +14,7 @@
       "name": "dc-superman",
       "superhero": "Superman",
       "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
+      "alter_ego": "Kal-El de Krypton",
       "first_appearance": "Action Comics #1",
       "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576709/img_heroes/dc-superman_ftmyta.jpg"
     },
@@ -170,6 +170,33 @@
       "alter_ego": "Popeye el Marino",
       "first_appearance": "Popeye Aventuras #2",
       "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Popeye-comic-book-cover.jpg"
+    },
+    {
+      "id": "2d603acb-bc15-4eab-8e7a-b36100720e2f",
+      "name": "mtv-capitanazo",
+      "superhero": "Capitanazo",
+      "publisher": "MTV",
+      "alter_ego": "Capitan Azo",
+      "first_appearance": "Casa de los dibujos",
+      "image": "https://i.pinimg.com/550x/20/07/08/200708f11cb9d29766cd92764aa623a9.jpg"
+    },
+    {
+      "id": "06736266-e06a-4271-8974-80fb3858f9ef",
+      "name": "",
+      "superhero": "",
+      "publisher": "",
+      "alter_ego": "",
+      "first_appearance": "",
+      "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1721837818/pruebaFundamentals/hp2sd2o9zldeblpvpm6h.jpg"
+    },
+    {
+      "id": "53595e55-c36e-43cc-8406-483e04eb87e0",
+      "name": "superpoderosas",
+      "superhero": "Bombón",
+      "publisher": "cartoon-network",
+      "alter_ego": "Pelirroja",
+      "first_appearance": "superpoderosas #2",
+      "image": "https://res.cloudinary.com/dd5yolnde/image/upload/v1721838015/pruebaFundamentals/hxct9vbr9fk9pejwkw8s.jpg"
     }
   ]
 }

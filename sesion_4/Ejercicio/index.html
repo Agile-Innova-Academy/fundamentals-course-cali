@@ -41,7 +41,7 @@
     </div>
     <div class="inputs">
       <label for="imageInput">Imágen</label>
-      <input type="file" accept="image/*" id="imageInput" placeholder="Ingrese imágen">
+      <input type="file" id="imageInput" placeholder="Ingrese imágen">
     </div>
     <button type="submit">Agregar héroe</button>
   </form>
@@ -49,6 +49,40 @@
   <main id="main">    
     
   </main>
+
+  <dialog id="favDialog">
+    <div id="overlay"></div>
+    <form id="editHero">
+      <div class="inputs">
+        <label for="nameInput2">Cómic</label>
+        <input type="text" id="nameInput2" placeholder="Ingrese nombre del comic">
+      </div>
+      <div class="inputs">
+        <label for="superheroInput2">Nombre</label>
+        <input type="text" id="superheroInput2" placeholder="Ingrese nombre del héroe">
+      </div>
+      <div class="inputs">
+        <label for="publisherInput2">Editor</label>
+        <input type="text" id="publisherInput2" placeholder="Ingrese editor">
+      </div>
+      <div class="inputs">
+        <label for="alterInput2">Alter-ego</label>
+        <input type="text" id="alterInput2" placeholder="Ingrese AlterEgo">
+      </div>
+      <div class="inputs">
+        <label for="firstInput2">Primera aparición</label>
+        <input type="text" id="firstInput2" placeholder="Ingrese primera aparición">
+      </div>
+      <div class="inputs">
+        <label for="imageInput2">Imágen</label>
+        <input type="text" id="imageInput2" placeholder="Ingrese imágen">
+      </div>
+      <menu>
+        <button id="cancel" type="reset">Cancelar</button>
+        <button type="submit">Actualizar</button>
+      </menu>
+    </form>
+  </dialog>
   
   <script src="./scripts/main.js" type="module"></script>
 </body>
